@@ -1,0 +1,151 @@
+1.AlanJohannesRajmohanNikiYong-2003	acm,959070,The Cougar Project: a work-in-progress report,Alan Demers; Johannes Gehrke; Rajmohan Rajaraman; Niki Trigoni; Yong Yao,ACM SIGMOD Record,2003
+1.AlexanderDaniel-1999	acm,671505,Optimal Grid-Clustering: Towards Breaking the Curse of Dimensionality in High-Dimensional Clustering,Alexander Hinneburg; Daniel A. Keim,Very Large Data Bases,1999
+1.Alexandros-2003	acm,777003,Career forum,Alexandros Labrinidis,ACM SIGMOD Record,2003
+1.Anant-2000	acm,335469,Anatomy of a real E-commerce system,Anant Jhingran,International Conference on Management of Data,2000
+1.AnastassiaJiriGregory-2003	dblp,conf/vldb/SchindlerAG03,Lachesis: Robust Database Storage Management Based on Device-specific Performance Characteristics,Anastassia Ailamaki; Jiri Schindler; Gregory R. Ganger,VLDB,2003
+1.Andreas-1995	dblp,conf/vldb/Meier95,Providing Database Migration Tools - A Practicioner's Approach,Andreas Meier,VLDB,1995
+1.Andreas-2000	acm,335465,Handling very large databases with informix extended parallel server,Andreas Weininger,International Conference on Management of Data,2000
+1.Andreas-2002	acm,564754,Efficient execution of joins in a star schema,Andreas Weininger,International Conference on Management of Data,2002
+1.Andrew-1996	dblp,journals/sigmod/Eisenberg96,New Standard for Stored Procedures in SQL,Andrew Eisenberg,SIGMOD Record,1996
+1.Andrew-2003	acm,777001,Standards,Andrew Eisenberg,ACM SIGMOD Record,2003
+1.AndrewJim-2002	acm,637433,An early look at XQuery,Andrew Eisenberg; Jim Melton,ACM SIGMOD Record,2002
+1.AndrewPrabhakarRaviSridhar-1999	dblp,conf/vldb/KumarRRT99,Extracting Large-Scale Knowledge Bases from the Web,Andrew Tomkins; Prabhakar Raghavan; Ravi Kumar; Sridhar Rajagopalan,VLDB,1999
+1.AnindyaVijayAslihanDebra-1999	dblp,journals/tods/DattaVCK99,Broadcast Protocols to Support Efficient Retrieval from Databases by Mobile Users,Anindya Datta; Vijay Kumar; Aslihan Celik; Debra E. VanderMeer,ACM Trans. Database Syst.,1999
+1.Arun-1999	dblp,journals/sigmod/Hampapur99,Semantic Video Indexing: Approach and Issue,Arun Hampapur,SIGMOD Record,1999
+1.ArunprasadKenneth-1997	acm,671002,A Language for Manipulating Arrays,Arunprasad P. Marathe; Kenneth Salem,Very Large Data Bases,1997
+1.ArvindBrianShivnathMayurKeithItaruJustinJennifer-2003	acm,872854,STREAM: the stanford stream data manager (demonstration description),Arvind Arasu; Brian Babcock; Shivnath Babu; Mayur Datar; Keith Ito; Itaru Nishizawa; Justin Rosenstein; Jennifer Widom,International Conference on Management of Data,2003
+1.AtulRobertBarbaraUmesh-1995	acm,223787,Efficient optimistic concurrency control using loosely synchronized clocks,Atul Adya; Robert Gruber; Barbara Liskov; Umesh Maheshwari,International Conference on Management of Data,1995
+1.Avigdor-1999	dblp,journals/sigmod/Gal99,Semantic Interoperability in Information Services: Experiencing with CoopWARE,Avigdor Gal,SIGMOD Record,1999
+1.Azer-1996	acm,381860,Advances in real-time database systems research,Azer Bestavros,ACM SIGMOD Record,1996
+1.Bassel-1999	dblp,conf/sigmod/Ojjeh99,Microsoft Site Server (Commerce Edition),Bassel Ojjeh,SIGMOD Conference,1999
+1.BengDimitrisKian-LeeWeePanos-2002	dblp,conf/sigmod/KalnisNOPT02,An adaptive peer-to-peer network for distributed caching of OLAP results,Beng Chin Ooi; Dimitris Papadias; Kian-Lee Tan; Wee Siong Ng; Panos Kalnis,SIGMOD Conference,2002
+1.BerndSergeJérômeOmarTovaFrederic-2003	dblp,conf/vldb/AbiteboulABBNM03,Schema-driven Customization of Web Services,Bernd Amann; Serge Abiteboul; Jérôme Baumgarten; Omar Benjelloun; Tova Milo; Frederic Dang Ngoc,VLDB,2003
+1.Bombay"- Nandlal L. Sarda	dblp,journals/sigmod/PhatakSSS96,"Database Research at the Indian Institute of Technology, Bombay","S. Seshadri, Nandlal L. Sarda, D. B. Phatak, S. Sudarshan",SIGMOD Record,1996
+1.C.-1999	acm,304230,A database perspective on Lotus Domino/Notes,C. Mohan,International Conference on Management of Data,1999
+1.C.-2001	dblp,conf/sigmod/Mohan01,Application Servers: Born-Again TP Monitors for the Web? (Panel Abstract),C. Mohan,SIGMOD Conference,2001
+1.C.-2001	acm,672360,Caching Technologies for Web Applications,C. Mohan,Very Large Data Bases,2001
+1.C.-2002	dblp,conf/vldb/Mohan02,Application Servers and Associated Technologies,C. Mohan,VLDB,2002
+1.C.-2002	dblp,conf/vldb/Mohan02a,An Efficient Method for Performing Record Deletions and Updates Using Index Scans,C. Mohan,VLDB,2002
+1.Charu-2003	acm,872826,A framework for diagnosing changes in evolving data streams,Charu C. Aggarwal,International Conference on Management of Data,2003
+1.CharuPhilip-2000	acm,335383,Finding generalized projected clusters in high dimensional spaces,Charu C. Aggarwal; Philip S. Yu,International Conference on Management of Data,2000
+1.Christian-2000	dblp,journals/tods/Bohm00,A cost model for query processing in high dimensional data spaces,Christian Böhm,ACM Trans. Database Syst.,2000
+1.Christoph-2003	dblp,conf/vldb/Koch03,Efficient Processing of Expressive Node-Selecting Queries on XML Data in Secondary Storage: A Tree Automata-based Approach,Christoph Koch,VLDB,2003
+1.Constraints-Alin Deutsch; Lucian Popa; Val Tannen	acm,756643,"Physical Data Independence, Constraints, and Optimization with Universal Plans",Alin Deutsch; Lucian Popa; Val Tannen,Very Large Data Bases,1999
+1.Count-"Mehran Sahami	dblp,conf/sigmod/IpeirotisGS01,"Probe, Count, and Classify: Categorizing Hidden Web Databases","Mehran Sahami, Panagiotis G. Ipeirotis, Luis Gravano",SIGMOD Conference,2001
+1.Curtis-1996	acm,673326,Information Retrieval from an Incomplete Data Cube,Curtis E. Dyreson,Very Large Data Bases,1996
+1.Dan-2001	dblp,journals/sigmod/Suciu01,On Database Theory and XML,Dan Suciu,SIGMOD Record,2001
+1.Daniel-1996	acm,280349,databases and visualization,Daniel A. Keim,International Conference on Management of Data,1996
+1.Daniel-2001	acm,604266,Special issue on data mining for intrusion detection and threat analysis,Daniel Barbar&#225;,ACM SIGMOD Record,2001
+1.DanielJuliaSushilNingning-2001	acm,604268,ADAM: a testbed for exploring the use of data mining in intrusion detection,Daniel Barbar&#225;; Julia Couto; Sushil Jajodia; Ningning Wu,ACM SIGMOD Record,2001
+1.Database- William O'Connell	acm,671525,"Active Storage Hierarchy, Database Systems and Applications - Socratic Exegesis","Felipe Cari&#241;o, William O'Connell, John Burgess, Joel H. Saltz",Very Large Data Bases,1999
+1.DavidBetty-1997	dblp,journals/vldb/LometS97,Concurrency and Recovery for Index Trees,David B. Lomet; Betty Salzberg,VLDB J.,1997
+1.Dean-1996	acm,236712,Model and verification of a data manager based on ARIES,Dean Kuo,ACM Transactions on Database Systems (TODS),1996
+1.DebajyotiDebasisSanasam-2003	acm,776989,An approach to confidence based page ranking for user oriented Web search,Debajyoti Mukhopadhyay; Debasis Giri; Sanasam Ranbir Singh,ACM SIGMOD Record,2003
+1.Dieter-1996	acm,673334,Scalablity and Availability in Oracle7 7.3,Dieter Gawlick,Very Large Data Bases,1996
+1.Distributed- Marie-Anne Neimat	dblp,journals/tods/LitwinN96,"LH* - A Scalable, Distributed Data Structure","Donovan A. Schneider, Marie-Anne Neimat, Witold Litwin",ACM Trans. Database Syst.,1996
+1.Don-2003	acm,872877,XQuery: a query language for XML,Don Chamberlin,International Conference on Management of Data,2003
+1.Educational-"Krithi Ramamritham	acm,672007,"Social, Educational, and Governmental Change Enabled through Information Technology","Krithi Ramamritham, Yeha El Atfi, Carlo Batini, Michael Eitan, Valerie Gregg, D. B. Phatak",Very Large Data Bases,2000
+1.EdwardDarrelMarjorieHerbert-1995	dblp,journals/vldb/TempletonHMB95,InterViso: Dealing With the Complexity of Federated Database Access,Edward Maros; Darrel J. Van Buer; Marjorie Templeton; Herbert Henley,VLDB J.,1995
+1.ElaMalcolmRobert-2001	acm,672030,A Database Index to Large Biological Sequences,Ela Hunt; Malcolm P. Atkinson; Robert W. Irving,Very Large Data Bases,2001
+1.Elisa-1994	acm,615202,Index configuration in object-oriented databases,Elisa Bertino,The VLDB Journal &mdash; The International Journal on Very Large Data Bases,1994
+1.Eric-2000	acm,335459,Going beyond personalization: rule engines at work,Eric Kintzer,International Conference on Management of Data,2000
+1.Fran&#231oiseH.Fran&#231oisJo&#259oKennethDennis-2001	acm,375677,Filtering algorithms and implementation for very fast publish/subscribe systems,Fran&#231;oise Fabret; H. Arno Jacobsen; Fran&#231;ois Llirbat; Jo&#259;o Pereira; Kenneth A. Ross; Dennis Shasha,International Conference on Management of Data,2001
+1.Frank-2002	dblp,journals/sigmod/Goethals02,Data Warehousing and Business Intelligence for E-Commerce - Book Review,Frank G. Goethals,SIGMOD Record,2002
+1.Geoffrey-2000	dblp,conf/vldb/Bowker00,Work and Information Practices in the Sciences of Biodiversity,Geoffrey C. Bowker,VLDB,2000
+1.GeorgChristophReinhard-2003	dblp,journals/sigmod/GottlobKP03,XPath Processing in a Nutshell,Georg Gottlob; Christoph Koch; Reinhard Pichler,SIGMOD Record,2003
+1.GeorgesJean-RobertZhao-Hui-1996	acm,673484,Cost-based Selection of Path Expression Processing Algorithms in Object-Oriented Databases,Georges Gardarin; Jean-Robert Gruser; Zhao-Hui Tang,Very Large Data Bases,1996
+1.GerardAndreasJunghooHector-2000	dblp,journals/sigmod/PaepckeGRC00,Beyond Document Similarity: Understanding Value-Based Search and Browsing Technologies,Gerard Rodríguez-Mulà; Andreas Paepcke; Junghoo Cho; Hector Garcia-Molina,SIGMOD Record,2000
+1.Goetz-1999	acm,671528,The Value of Merge-Join and Hash-Join in SQL Server,Goetz Graefe,Very Large Data Bases,1999
+1.Gonzalo-2002	acm,767095,Searching in metric spaces by spatial approximation,Gonzalo Navarro,The VLDB Journal &mdash; The International Journal on Very Large Data Bases,2002
+1.H.-J.-1994	acm,187445,How to modify SQL queries in order to guarantee sure answers,H.-J. Klein,ACM SIGMOD Record,1994
+1.Hannu-1996	dblp,conf/vldb/Toivonen96,Sampling Large Databases for Association Rules,Hannu Toivonen,VLDB,1996
+1.HectorWilburtYingweiJenniferJun-2000	dblp,conf/vldb/LabioYCGW00,Performance Issues in Incremental Warehouse Maintenance,Hector Garcia-Molina; Wilburt Labio; Yingwei Cui; Jennifer Widom; Jun Yang,VLDB,2000
+1.Herb-1995	acm,223868,Research and products-are they relevant to each other? (panel session),Herb Edelstein,International Conference on Management of Data,1995
+1.Implementation-"Nelson Mendonça Mattos	dblp,journals/vldb/DesslochHMMT98,"Advanced Data Processing in KRISYS: Modeling Concepts, Implementation Techniques, and Client/Server Issues","Nelson Mendonça Mattos, Joachim Thomas, Theo Härder, Stefan Deßloch, Bernhard Mitschang",VLDB J.,1998
+1.Jan-2003	dblp,journals/tods/Chomicki03,Preference formulas in relational queries,Jan Chomicki,ACM Trans. Database Syst.,2003
+1.JasonJennifer-1997	acm,271082,Integrating dynamically-fetched external information into a DBMS for semistructured data,Jason McHugh; Jennifer Widom,ACM SIGMOD Record,1997
+1.JeannieKennethHector-1994	dblp,journals/tods/SalemGS94,Altruistic Locking,Jeannie Shands; Kenneth Salem; Hector Garcia-Molina,ACM Trans. Database Syst.,1994
+1.Jeffrey-2003	dblp,conf/sigmod/Ullman03,Improving the Efficiency of Database-System Teaching,Jeffrey D. Ullman,SIGMOD Conference,2003
+1.Jian-1995	dblp,journals/sigmod/Zhang95,Application of OODB and SGML Techniques in Text Database: An Electronic Dictionary System,Jian Zhang,SIGMOD Record,1995
+1.Jim-2002	acm,601876,Standards,Jim Melton,ACM SIGMOD Record,2002
+1.Jos&#233A.Michael-1998	acm,276354,Microsoft universal data access platform,Jos&#233; A. Blakeley; Michael J. Pizzo,International Conference on Management of Data,1998
+1.Joseph-2000	acm,671848,Hypothetical knowledge and counterfactual reasoning,Joseph Y. Halpern,Very Large Data Bases,2000
+1.Joseph-2000	dblp,conf/sigmod/Hellerstein00,Index Research: Forest or Trees? (Panel Abstract),Joseph M. Hellerstein,SIGMOD Conference,2000
+1.Karl-2001	dblp,journals/sigmod/Aberer01,Advanced XML Data Processing - Guest Editor's Introduction,Karl Aberer,SIGMOD Record,2001
+1.Karl-2002	dblp,journals/sigmod/Aberer02c,Book Review Column,Karl Aberer,SIGMOD Record,2002
+1.Ken-2001	acm,603881,Influential papers,Ken Ross,ACM SIGMOD Record,2001
+1.Kenneth-1997	acm,673647,Innovation in Database Management: Computer Science vs. Engineering,Kenneth R. Jacobs,Very Large Data Bases,1997
+1.KennethKyuseokMary-2002	dblp,journals/sigmod/RossFS02,Reminiscences on Influential Papers,Kenneth A. Ross; Kyuseok Shim; Mary F. Fernandez,SIGMOD Record,2002
+1.Kestutis-1995	acm,223862,High availability of commercial applications,Kestutis Ivinskis,International Conference on Management of Data,1995
+1.Kian-LeeChengBeng-2000	acm,765240,Progressive evaluation of nested aggregate queries,Kian-Lee Tan; Cheng Hian Goh; Beng Chin Ooi,The VLDB Journal &mdash; The International Journal on Very Large Data Bases,2000
+1.Larry-1995	acm,277954,Keynote address,Larry J. Ellison,International Conference on Management of Data,1995
+1.Len-2002	acm,601872,Industry perspectives,Len Seligman,ACM SIGMOD Record,2002
+1.Ling-2002	dblp,journals/sigmod/Liu02,Editor's Notes,Ling Liu,SIGMOD Record,2002
+1.Logging-David Campbell	dblp,conf/vldb/Campbell99,"The New Locking, Logging, and Recovery Architecture of Microsoft SQL Server 7.0",David Campbell,VLDB,1999
+1.M.M.N.-1994	acm,672989,A Top-Down Approach for Two Level Serializability,M. Ouzzani; M. A. Atroun; N. L. Belkhodja,Very Large Data Bases,1994
+1.M.R.K.G.D.S.J.K.-1997	acm,253379,DEVise (demo abstract): integrated querying and visual exploration of large datasets,M. Livny; R. Ramakrishnan; K. Beyer; G. Chen; D. Donjerkovic; S. Lawande; J. Myllymaki; K. Wenger,International Conference on Management of Data,1997
+1.Madison- June 3-6	dblp,conf/sigmod/2002,"Proceedings of the 2002 ACM SIGMOD International Conference on Management of Data, Madison, Wisconsin, June 3-6, 2002",?,SIGMOD Conference,2002
+1.MarisaJohnMichael-1996	acm,673464,Applying Data Mining Techniques to a Health Insurance Information System,Marisa S. Viveros; John P. Nearhos; Michael J. Rothman,Very Large Data Bases,1996
+1.MarkusHans-PeterRaymondJ&#246rg-2000	acm,335388,LOF: identifying density-based local outliers,Markus M. Breunig; Hans-Peter Kriegel; Raymond T. Ng; J&#246;rg Sander,International Conference on Management of Data,2000
+1.Michael-1994	acm,191929,Parallel database systems in the 1990's,Michael J. Carey,International Conference on Management of Data,1994
+1.Michael-2002	acm,507356,What will be,Michael Dertouzos,ACM SIGMOD Record,2002
+1.MichaelJeanineGermanWolfgangGerhard-2000	acm,336577,A goal-driven auto-configuration tool for the distributed workflow management system mentorlite,Michael Gillmann; Jeanine Weissenfels; German Shegalov; Wolfgang Wonner; Gerhard Weikum,International Conference on Management of Data,2000
+1.MichaelJoseph-2001	acm,375739,Content integration for e-business,Michael Stonebraker; Joseph M. Hellerstein,International Conference on Management of Data,2001
+1.MichaelPankajT.Cecilia-2002	dblp,conf/sigmod/ProcopiucJAM02,A Monte Carlo algorithm for fast projective clustering,Michael Jones; Pankaj K. Agarwal; T. M. Murali; Cecilia Magdalena Procopiuc,SIGMOD Conference,2002
+1.MichaelSanjeev-2001	acm,375670,Space-efficient online computation of quantile summaries,Michael Greenwald; Sanjeev Khanna,International Conference on Management of Data,2001
+2.Narayanan-2003	dblp,conf/sigmod/Shivakumar03,Google in a Box - Building the Google Search Appliance,Narayanan Shivakumar,SIGMOD Conference,2003
+2.Narendra-1996	acm,673631,DWMS: Data Warehouse Management System,Narendra Mohan,Very Large Data Bases,1996
+2.Nick-1998	acm,273253,Materialized views and data warehouses,Nick Roussopoulos,ACM SIGMOD Record,1998
+2.One-To-One- Piero Fraternali	dblp,conf/vldb/CeriFP99,"Data-Driven, One-To-One Web Site Generation for Data-Intensive Applications","Stefano Paraboschi, Piero Fraternali, Stefano Ceri",VLDB,1999
+2.Part-VLDB	dblp,conf/vldb/Brodie00,"Panel: Future Directions of Database Research - The VLDB Broadening Strategy, Part 2",Michael L. Brodie,VLDB,2000
+2.Paul-2002	dblp,conf/sigmod/Cotton02,Implementing XQuery,Paul Cotton,SIGMOD Conference,2002
+2.Peter-1994	dblp,journals/vldb/Baumann94,Management of Multidimensional Discrete Data,Peter Baumann,VLDB J.,1994
+2.Peter-2001	dblp,journals/sigmod/Fankhauser01,XQuery Formal Semantics: State and Challenges,Peter Fankhauser,SIGMOD Record,2001
+2.Peter-2001	acm,603870,XQuery formal semantics state and challenges,Peter Fankhauser,ACM SIGMOD Record,2001
+2.PeterJonathan-2001	dblp,journals/sigmod/LawderK01,Querying Multi-dimensional Data Indexed Using the Hilbert Space-filling Curve,Peter J. H. King; Jonathan K. Lawder,SIGMOD Record,2001
+2.Philip-2001	dblp,journals/sigmod/Bernstein01,Report on the 2001 SIGMOD and PODS Awards,Philip A. Bernstein,SIGMOD Record,2001
+2.Phillip-1994	acm,191947,Red brick warehouse: a read-mostly RDBMS for open SMP platforms,Phillip M. Fernandez,International Conference on Management of Data,1994
+2.Portals-"Kyuseok Shim	dblp,conf/sigmod/GarofalakisRRS99,"Of Crawlers, Portals, Mice and Men: Is there more to Mining the Web? (Panel)","Kyuseok Shim, Rajeev Rastogi, Minos N. Garofalakis, Sridhar Ramaswamy",SIGMOD Conference,1999
+2.Prakash-2002	acm,564726,Efficient algorithms for minimizing tree pattern queries,Prakash Ramanan,International Conference on Management of Data,2002
+2.Prakash-2003	dblp,conf/vldb/Ramanan03,Covering Indexes for XML Queries: Bisimulation - Simulation = Negation,Prakash Ramanan,VLDB,2003
+2.Praveen-2003	dblp,conf/sigmod/Seshadri03,Building Notification Services with Microsoft SQLServer,Praveen Seshadri,SIGMOD Conference,2003
+2.Products-"Michael J. Carey	dblp,conf/sigmod/CareyMN97,"Object-Relational Database Systems: Principles, Products, and Challenges (Tutorial)","Michael J. Carey, Anil Nori, Nelson Mendonça Mattos",SIGMOD Conference,1997
+2.R.-1994	dblp,conf/sigmod/Cattell94,ODMG-93: A Standard for Object-Oriented DBMSs,R. G. G. Cattell,SIGMOD Conference,1994
+2.RaduMikhailSunil-2003	acm,872772,Rights protection for relational data,Radu Sion; Mikhail Atallah; Sunil Prabhakar,International Conference on Management of Data,2003
+2.RudolfArneAndreeRalfClaudiaRalfPeterKonrad-1997	dblp,journals/sigmod/KramerNKRLKLZ97,WWW-UDK: A Web-based Environmental Meta-Information System,Rudolf Legat; Arne Koschel; Andree Keitel; Ralf Kramer; Claudia Rolker; Ralf Nikolai; Peter C. Lockemann; Konrad Zirm,SIGMOD Record,1997
+2.San- USA	dblp,conf/sigmod/2003,"Proceedings of the 2003 ACM SIGMOD International Conference on Management of Data, San Diego, California, USA, June 9-12, 2003",?,SIGMOD Conference,2003
+2.Sanju-1995	dblp,conf/sigmod/Bampahl95,Real World Requirements for Decision Support - Implications for RDBMS,Sanju K. Bansal,SIGMOD Conference,1995
+2.Scaling-"King-Ip Lin	dblp,conf/vldb/AgrawalLSS95,"Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases","King-Ip Lin, Harpreet S. Sawhney, Rakesh Agrawal, Kyuseok Shim",VLDB,1995
+2.Sharad-1998	dblp,journals/tods/MehrotraRKS98,Ensuring Consistency in Multidatabases by Preserving Two-Level Serializability,Sharad Mehrotra,ACM Trans. Database Syst.,1998
+2.Sherri-1998	dblp,conf/sigmod/Kennamer98,Microsoft.com: A High-Scale Data Management and Transaction Processing Solution,Sherri Kennamer,SIGMOD Conference,1998
+2.ShivnathJennifer-2001	acm,603884,Continuous queries over data streams,Shivnath Babu; Jennifer Widom,ACM SIGMOD Record,2001
+2.Soumen-1999	acm,304231,Hypertext databases and data mining,Soumen Chakrabarti,International Conferenc2.Rafael-1995	dblp,journals/sigmod/Alonso95a,Trade Press News,Rafael Alonso,SIGMOD Record,1995
+2.Rafael-1995	dblp,journals/sigmod/Alonso95,Trade Press News,Rafael Alonso,SIGMOD Record,1995
+2.RalphMichaelDanielaMartinAlbrechtFlorianIoana-2001	dblp,journals/sigmod/SchmidtWKFCMB01,Why And How To Benchmark XML Databases,Ralph Busse; Michael J. Carey; Daniela Florescu; Martin L. Kersten; Albrecht Schmidt; Florian Waas; Ioana Manolescu,SIGMOD Record,2001
+2.RameshArun-1994	acm,190638,Metadata in video databases,Ramesh Jain; Arun Hampapur,ACM SIGMOD Record,1994
+2.Randomized-VLDB	dblp,conf/vldb/Galindo-LegariaPK94,"Fast, Randomized Join-Order Selection - Why Use Transformations?",Arjan Pellenkoft; César A. Galindo-Legaria; Martin L. Kersten,VLDB,1994
+2.Richard-1999	dblp,journals/sigmod/Snodgrass99,Chair's Message,Richard T. Snodgrass,SIGMOD Record,1999
+2.Richard-1999	dblp,journals/sigmod/Snodgrass99b,Reminiscences on Influential Papers,Richard T. Snodgrass,SIGMOD Record,1999
+2.Richard-2000	dblp,conf/vldb/Taylor00,Concurrency in the Data Warehouse,Richard Taylor,VLDB,2000
+2.Richard-2001	acm,505049,Editorial,Richard Snodgrass,ACM Transactions on Database Systems (TODS),2001
+2.Rob-1995	dblp,conf/sigmod/Golding95,Things Every Update Replication Customer Should Know,Rob Golding,SIGMOD Conference,1995
+2.Robert-1995	dblp,conf/sigmod/Epstein95,Keynote Address,Robert S. Epstein,SIGMOD Conference,1995
+2.Ronald-2000	dblp,conf/sigmod/Ross00,Expressing Business Rules,Ronald G. Ross,SIGMOD Conference,2000
+2.Rosa-2000	acm,363956,Theory of dependence values,Rosa Meo,ACM Transactions on Database Systems (TODS),2000
+e on Management of Data,1999
+2.SrinathSujit-2003	dblp,conf/vldb/SrinivasaK03,A Platform Based on the Multi-dimensional Data Model for Analysis of Bio-Molecular Structures,Srinath Srinivasa; Sujit Kumar,VLDB,2003
+2.St&#233phanePhilippeLuc-2000	acm,672005,Manipulating Interpolated Data is Easier than You Thought,St&#233;phane Grumbach; Philippe Rigaux; Luc Segoufin,Very Large Data Bases,2000
+2.SurajitGerhard-2000	acm,671696,Rethinking Database System Architecture: Towards a Self-Tuning RISC-Style Database System,Surajit Chaudhuri; Gerhard Weikum,Very Large Data Bases,2000
+2.SurajitKyuseok-2001	dblp,conf/vldb/ChaudhuriS01,Storage and Retrieval of XML Data Using Relational Databases,Surajit Chaudhuri; Kyuseok Shim,VLDB,2001
+2.Tuning-Dennis Shasha	dblp,conf/sigmod/Shasha97,"Lessons from Wall Street: Case Studies in Configuration, Tuning, and Distribution (Tutorial)",Dennis Shasha,SIGMOD Conference,1997
+2.Tzi-cker-1994	acm,672825,Content-Based Image Indexing,Tzi-cker Chiueh,Very Large Data Bases,1994
+2.Ugur-2001	dblp,journals/sigmod/Cetintemel01,On the Academic Interview Circuit: An End-to-End Discussion,Ugur Çetintemel,SIGMOD Record,2001
+2.Vijay-1996	acm,673463,Loading the Data Warehouse Across Various Parallel Architectures,Vijay V. Raghavan,Very Large Data Bases,1996
+2.WalidIhabAhmed-2002	dblp,conf/vldb/IlyasAE02,Joining Ranked Inputs in Practice,Walid G. Aref; Ihab F. Ilyas; Ahmed K. Elmagarmid,VLDB,2002
+2.Warren-1998	acm,671203,The National Medical Knowledge Bank,Warren Sterling,Very Large Data Bases,1998
+2.Wilfred-2001	dblp,journals/tods/Ng01,An extension of the relational data model to incorporate ordered domains,Wilfred Ng,ACM Trans. Database Syst.,2001
+2.YanleiHongjunZengpingSongting-2000	dblp,conf/vldb/DiaoLCT00,Toward Learning Based Web Query Processing,Yanlei Diao; Hongjun Lu; Zengping Tian; Songting Chen,VLDB,2000
+2.YannisNick-2001	acm,503100,A case for dynamic view management,Yannis Kotidis; Nick Roussopoulos,ACM Transactions on Database Systems (TODS),2001
+2.YuguoYimingPradipRuiYonghuiPeter-2000	dblp,conf/sigmod/ReveszCKLLW00,The MLPQ/GIS Constraint Database System,Yuguo Liu; Yiming Li; Pradip Kanjamala; Rui Chen; Yonghui Wang; Peter Z. Revesz,SIGMOD Conference,2000
+2.Yun-1995	acm,673152,DB2 Query Parallelism: Staging and Implementation,Yun Wang,Very Large Data Bases,1995
+2.Yv&#225naMarioScott-1998	acm,671188,On Optimal Node Splitting for R-trees,Yv&#225;n J. Garc&#237;a; Mario A. Lopez; Scott T. Leutenegger,Very Large Data Bases,1998

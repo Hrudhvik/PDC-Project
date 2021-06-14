@@ -1,0 +1,203 @@
+# 191884	615237
+	
+# 191949	journals/sigmod/MaximilienS02
+	
+# 219737	conf/sigmod/SistlaW95
+	
+# 223886	185828
+	
+# 227624	conf/sigmod/MumickP94
+	
+# 233352	conf/vldb/GarofalakisG02
+	
+# 233352	672356
+	
+# 253384	conf/sigmod/LiC95
+	
+# 253384	672040
+	
+# 262769	journals/vldb/RamamrithamC96
+	
+# 304186	673000
+	
+# 304186	304194
+	
+# 304190	767144
+	
+# 304230	conf/vldb/Mohan02a
+	
+# 304230	conf/sigmod/Mohan01
+	
+# 304230	672360
+	
+# 304230	conf/vldb/Mohan02
+	
+# 335384	conf/sigmod/PalmerF00
+	
+# 335465	564754
+	
+# 344822	journals/sigmod/BonifatiC00
+	
+# 375665	journals/sigmod/YaoG02
+	
+# 375665	671330
+	
+# 381889	journals/sigmod/BerndtssonH96
+	
+# 564726	conf/vldb/Ramanan03
+	
+# 564770	conf/sigmod/AbadiC02
+	
+# 604266	604268
+	
+# 640994	journals/sigmod/WenLMZ03
+	
+# 671330	journals/sigmod/YaoG02
+	
+# 671511	conf/vldb/GingrasL98
+	
+# 671696	conf/vldb/ChaudhuriS01
+	
+# 671867	conf/vldb/BernsteinD94
+	
+# 672040	conf/sigmod/LiC95
+	
+# 672360	conf/vldb/Mohan02
+	
+# 672360	conf/vldb/Mohan02a
+	
+# 673000	304194
+	
+# 673138	conf/vldb/SubietaKL95
+	
+# 673634	671010
+	
+# 673669	conf/sigmod/GibbonsM98
+	
+# 673669	conf/sigmod/GarofalakisG02
+	
+# 758376	959077
+	
+# 764201	304194
+	
+# 764201	673000
+	
+# 764201	304186
+	
+# 765506	253384
+	
+# 765506	conf/sigmod/LiC95
+	
+# 765506	672040
+	
+# 777001	637433
+	
+# 872826	335383
+	
+# 950485	564770
+	
+# 950485	conf/sigmod/AbadiC02
+	
+# conf/sigmod/AdelbergGW97	conf/vldb/ChangG00
+	
+# conf/sigmod/AdelbergGW97	conf/vldb/ShivakumarGC98
+	
+# conf/sigmod/BohannonDGKLNS03	335376
+	
+# conf/sigmod/ChenGMV02	conf/sigmod/GarofalakisG02
+	
+# conf/sigmod/ChenGMV02	conf/sigmod/GibbonsM98
+	
+# conf/sigmod/ChenGMV02	673669
+	
+# conf/sigmod/DeshpandeNGS03	conf/sigmod/ChenGMV02
+	
+# conf/sigmod/DeshpandeNGS03	conf/sigmod/GarofalakisG02
+	
+# conf/sigmod/DeshpandeNGS03	conf/sigmod/GibbonsM98
+	
+# conf/sigmod/DeshpandeNGS03	673669
+	
+# conf/sigmod/GibbonsM98	conf/sigmod/GarofalakisG02
+	
+# conf/sigmod/HristidisKP01	conf/vldb/PapakonstantinouAG96
+	
+# conf/sigmod/Mohan01	conf/vldb/Mohan02a
+	
+# conf/sigmod/Mohan01	672360
+	
+# conf/sigmod/Mohan01	conf/vldb/Mohan02
+	
+# conf/sigmod/NestorovAM98	journals/vldb/AbiteboulB95
+	
+# conf/vldb/AbiteboulBBCCDMMP03	journals/sigmod/BonifatiC00
+	
+# conf/vldb/AbiteboulBBCCDMMP03	344822
+	
+# conf/vldb/BelussiF95	conf/vldb/FaloutsosG96
+	
+# conf/vldb/ChaudhuriGN03	conf/sigmod/ChaudhuriGN02
+	
+# conf/vldb/FlorescuKLP97	673469
+	
+# conf/vldb/FuhDCMTLDRM99	conf/sigmod/MattosM95
+	
+# conf/vldb/GalanisWJD03	conf/sigmod/WhiteD94
+	
+# conf/vldb/GarofalakisG02	672356
+	
+# conf/vldb/LabioYCGW00	271082
+	
+# conf/vldb/MeoPC96	conf/sigmod/CeriFPP95
+	
+# conf/vldb/Mohan02	conf/vldb/Mohan02a
+	
+# conf/vldb/SeshadriLR96	conf/sigmod/ZhangRL96
+	
+# conf/vldb/ShivakumarGC98	conf/vldb/ChangG00
+	
+# conf/vldb/SimonD95	journals/vldb/PacittiS00
+	
+# conf/vldb/TaoPS02	journals/tods/MamoulisP01
+	
+# conf/vldb/XinHLW03	375664
+	
+# journals/sigmod/Aberer01	journals/sigmod/Aberer02c
+	
+# journals/sigmod/Alonso95a	journals/sigmod/Alonso95
+	
+# journals/sigmod/BargaL02	conf/vldb/BargaP95
+	
+# journals/sigmod/ChrysanthisSZ03	journals/tods/ChrysanthisR94
+	
+# journals/sigmod/Eisenberg96	637433
+	
+# journals/sigmod/Eisenberg96	777001
+	
+# journals/sigmod/Fankhauser01	603870
+	
+# journals/sigmod/RossAJS02	conf/sigmod/JohnsonD03
+	
+# journals/sigmod/RossNO03	670993
+	
+# journals/sigmod/Snodgrass99	journals/sigmod/Snodgrass99b
+	
+# journals/tods/ChakrabartiKMP02	568520
+	
+# journals/tods/EiterLLS01	502031
+	
+# journals/tods/GravanoGT99	conf/vldb/ChangG00
+	
+# journals/tods/GravanoGT99	conf/sigmod/AdelbergGW97
+	
+# journals/tods/GravanoGT99	conf/vldb/ShivakumarGC98
+	
+# journals/vldb/MihailaRT02	767096
+	
+# 503100	503100
+# conf/sigmod/ReveszCKLLW00	conf/sigmod/ReveszCKLLW00
+# 673152	673152
+# 671188	671188
+# 293152	293152
+# 277641	277641
+# 280362	280362
